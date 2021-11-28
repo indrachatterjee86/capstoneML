@@ -1,0 +1,90 @@
+----------------------------------------------
+Team Location
+----------------------------------------------
+
+1. Indra: Delhi
+2. Sunil: AP (Vijaywada)
+3. Ranga: Hyderabad
+4. Manju: Bengaluru
+5. Shyamla: Coimbatore, TN 
+
+Capstone Project Tasks.
+-------------------------------------------------
+Intermin Report Submission: 19-Dec,  2021
+Final Report Submission : 7-January, 2022
+-------------------------------------------------
+Major Areas:
+-------------------------------------------------
+
+------------------------------------------------
+Template Creation
+------------------------------------------------
+1. Project Plan  : 
+2. Interim Report  :
+ 
+--------------------
+Tasks Breakdown
+--------------------
+1. Documentation : Owners:  
+	a. Project Plan (Ranga)
+	b. Interim Report ()
+		1. Should contain the process and the how's of team collaboration. 
+	c. Final Submission  (Manju)
+	d. Make Sure code is well commented (documented) (Indra)
+
+2. Coding : (Manju, Indra, Sunil, Ranga, Shyamla)
+	a. Review and Merge code segments from different Jupyter notebooks into master Jupyter notebook.
+	b. Responsible for always making sure that Master notebooks is running without any errors. 
+	c. Presenting code segments to mentor whenever required. 
+
+
+1. Project Plan Creation
+2. Interim Report
+3. Code 
+	a. Creation of Master Jupyter notebook (For Final presentation) (*): Indra
+	b. Individual notebooks commited to GITHUB.  (*)
+	c. Explorartory Data analysis
+		1. Data Loading
+		2. Data Analysis
+		3. Data Preprocessing 
+		4. Data Visualization to find out relationships between parameters 
+	d. Generation of Baseline model i.e. Simple Linear regression.  (*)
+	e. Compare with other Regression Models under Supervised learning. 
+		1. Crossvalidation 
+	f. Feature Selection and Model Tunning for increasing accuracy (Hyper parameter tuning) 
+	g. Creating Pipeline
+	
+4. Identifying Team lead  : Indra 
+	a. Timelines verification
+	b. Setting up follow up meetings.  (Meeting tool : Teams)
+5. Check with Program manager (Rashika) on format of submission of deliverable.  (Send a message in whatsapp group). 
+6. Final Report Submission
+7. Final Presentation to Mentor : Manju 
+
+
+
+-----------------------------------------------
+Tools and Techniques
+-----------------------------------------------
+1. Code: Python with Jupyter ( along with HTML)
+2. Documentation: Word, Power Point or draw.io (Export as PDF)
+
+------------------------------------------------
+
+------------------------------------------------
+Weekly Meetings on teams
+------------------------------------------------
+Preferable on Saturday or Sunday: One Hour before the Mentoring Session. 
+
+For exact time: We will make sure to discuss in whatsapp group over text. 
+
+Meeting 1: Before Mentoring Session ( To discuss and decide on current week activities)
+Meeting 2: After Mentoring  Session ( To discuss next week activities and work on feedback given by mentor)
+ 
+----------------------------------------
+5th December, 2021 (Deliverables)
+----------------------------------------
+1. Project Plan : Ranga
+2. Coding till Baseline Model : Sunil 
+
+
